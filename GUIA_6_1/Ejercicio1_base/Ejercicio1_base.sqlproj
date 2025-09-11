@@ -61,5 +61,6 @@
   <ItemGroup>
     <None Include="1_base_tablas_insert.sql" />
     <None Include="2_Ejercicio2_query.sql" />
+    <None Include="3_Ejercicio3_query.sql" />
   </ItemGroup>
 </Project>

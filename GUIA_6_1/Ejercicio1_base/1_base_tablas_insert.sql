@@ -51,3 +51,11 @@ SELECT f.Id,
 FROM Figuras f
 
 GO
+
+USE master
+
+GO
+
+DROP DATABASE IF EXISTS Guia_6_1_Ejercicio1_Vitale_DB
+
+GO
